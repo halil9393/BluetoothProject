@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bluetooth Project</string>
+    <string name="home_label">Home</string>
+    <string name="details_label">Detail</string>
+    <string name="history_label">History</string>
+
+<!--    Main Activity-->
+    <string name="gps_kullanim_izni_gerekli">"GPS Kullanım İzni Gerekli !"</string>
+    <string name="programi_kullanmaya_devam">"Programı kullanmaya devam etmek için Ayalar kısmından manuel olarak izin vermeniz gerekli"</string>
+    <string name="ayarlara_git">"Ayarlara Git"</string>
+    <string name="iptal">"İptal"</string>
+    <string name="lokasyon_bilignize_ihtiyac">"Programı kullanmaya devam etmek için lokasyon bilginize ihtiyacımız var."</string>
+    <string name="izin_ver">"İzin Ver"</string>
+    <string name="konum_bilgisi_bulundu">"Konum Bilgisi Bulundu" </string>
+    <string name="gps_kapatildi">"GPS Kapatıldı"</string>
+    <string name="gps_acildi">"GPS Açıldı"</string>
+</resources>
